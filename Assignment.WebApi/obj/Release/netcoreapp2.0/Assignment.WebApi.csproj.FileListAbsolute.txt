@@ -1,0 +1,12 @@
+C:\Users\Sourabh-PC\Desktop\ASP\ASP_Assignment-master\Assignment.WebApi\bin\Release\netcoreapp2.0\Assignment.WebApi.deps.json
+C:\Users\Sourabh-PC\Desktop\ASP\ASP_Assignment-master\Assignment.WebApi\bin\Release\netcoreapp2.0\Assignment.WebApi.runtimeconfig.json
+C:\Users\Sourabh-PC\Desktop\ASP\ASP_Assignment-master\Assignment.WebApi\bin\Release\netcoreapp2.0\Assignment.WebApi.runtimeconfig.dev.json
+C:\Users\Sourabh-PC\Desktop\ASP\ASP_Assignment-master\Assignment.WebApi\bin\Release\netcoreapp2.0\Assignment.WebApi.dll
+C:\Users\Sourabh-PC\Desktop\ASP\ASP_Assignment-master\Assignment.WebApi\bin\Release\netcoreapp2.0\Assignment.WebApi.pdb
+C:\Users\Sourabh-PC\Desktop\ASP\ASP_Assignment-master\Assignment.WebApi\obj\Release\netcoreapp2.0\Assignment.WebApi.csprojAssemblyReference.cache
+C:\Users\Sourabh-PC\Desktop\ASP\ASP_Assignment-master\Assignment.WebApi\obj\Release\netcoreapp2.0\Assignment.WebApi.csproj.CoreCompileInputs.cache
+C:\Users\Sourabh-PC\Desktop\ASP\ASP_Assignment-master\Assignment.WebApi\obj\Release\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\Sourabh-PC\Desktop\ASP\ASP_Assignment-master\Assignment.WebApi\obj\Release\netcoreapp2.0\Assignment.WebApi.AssemblyInfoInputs.cache
+C:\Users\Sourabh-PC\Desktop\ASP\ASP_Assignment-master\Assignment.WebApi\obj\Release\netcoreapp2.0\Assignment.WebApi.AssemblyInfo.cs
+C:\Users\Sourabh-PC\Desktop\ASP\ASP_Assignment-master\Assignment.WebApi\obj\Release\netcoreapp2.0\Assignment.WebApi.dll
+C:\Users\Sourabh-PC\Desktop\ASP\ASP_Assignment-master\Assignment.WebApi\obj\Release\netcoreapp2.0\Assignment.WebApi.pdb
